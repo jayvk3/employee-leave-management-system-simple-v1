@@ -1,0 +1,9 @@
+{
+    "name": "employee-eave-management-system-simple-v1",
+    "version": "1.0.0",
+    "description": "Simple node.js BEG demo for employee-leave management with access roles and a single manager.",
+    "main": "app.js",
+    "scripts": {"start": "node app.js"},
+    "author": "Javhir+aut-CapStone",
+    "license": "MIT"
+}
